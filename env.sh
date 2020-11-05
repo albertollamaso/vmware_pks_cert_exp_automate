@@ -1,0 +1,4 @@
+export BOSH_CLIENT=ops_manager
+export BOSH_CLIENT_SECRET=REPLACE_ME_WITH_MY_BOSH_CLIENT_SECRET
+export BOSH_CA_CERT=root_ca_certificate
+export BOSH_ENVIRONMENT=10.1.12.15
